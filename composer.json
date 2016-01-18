@@ -1,0 +1,12 @@
+{
+    "name": "draperstudio/getcake-php-client",
+    "description": "A clean & simple PHP Wrapper around the GetCake API.",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "DraperStudio\\GetCake\\": "src/"
+        }
+    }
+}
