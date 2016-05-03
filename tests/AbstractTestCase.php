@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace DraperStudio\Tests\GetCake;
+namespace Apivore\Tests\GetCake;
 
 /**
  * This is the abstract test case class.

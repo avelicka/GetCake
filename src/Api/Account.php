@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace DraperStudio\GetCake\Api;
+namespace Apivore\GetCake\Api;
 
 /**
  * Class Account.

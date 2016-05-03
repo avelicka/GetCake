@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace DraperStudio\GetCake\Api;
+namespace Apivore\GetCake\Api;
 
-use DraperStudio\GetCake\Client;
+use Apivore\GetCake\Client;
 
 /**
  * Class AbstractApi.

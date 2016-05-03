@@ -1,17 +1,17 @@
 {
-    "name": "draperstudio/getcake-php-client",
+    "name": "apivore/getcake-php-client",
     "type": "library",
     "description": "A clean & simple PHP Wrapper around the GetCake API.",
     "keywords": [
-        "draperstudio",
+        "apivore",
         "getcake-php-client"
     ],
-    "homepage": "https://github.com/DraperStudio/getcake-php-client",
+    "homepage": "https://github.com/Apivore/getcake-php-client",
     "license": "MIT",
     "authors": [{
-        "name": "DraperStudio",
+        "name": "Apivore",
         "email": "hello@draperstudio.tech",
-        "homepage": "http://draperstudio.tech",
+        "homepage": "http://apivore.tech",
         "role": "Developer"
     }],
     "require": {
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "DraperStudio\\GetCake\\": "src/"
+            "Apivore\\GetCake\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "DraperStudio\\Tests\\GetCake\\": "tests"
+            "Apivore\\Tests\\GetCake\\": "tests"
         }
     },
     "scripts": {

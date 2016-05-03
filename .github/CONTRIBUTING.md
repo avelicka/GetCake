@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/DraperStudio/getcake-php-client).
+We accept contributions via Pull Requests on [Github](https://github.com/Apivore/getcake-php-client).
 
 
 ## Pull Requests

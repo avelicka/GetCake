@@ -12,13 +12,13 @@
 Via Composer
 
 ``` bash
-$ composer require draperstudio/getcake-php-client
+$ composer require apivore/getcake-php-client
 ```
 
 ## Usage
 
 ``` php
-$client = new DraperStudio\GetCake\Client('http://f5mlogin.com/', 'AFFILIATE_ID', 'API_KEY');
+$client = new Apivore\GetCake\Client('http://f5mlogin.com/', 'AFFILIATE_ID', 'API_KEY');
 
 $response = $client->api('Offers')->offerFeed([
     'campaign_name' => '',
@@ -56,24 +56,24 @@ If you discover any security related issues, please email hello@draperstudio.tec
 
 ## Credits
 
-- [DraperStudio][link-author]
+- [Apivore][link-author]
 - [All Contributors][link-contributors]
 
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/DraperStudio/getcake-php-client.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/Apivore/getcake-php-client.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/DraperStudio/GetCake-PHP-Client/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/DraperStudio/getcake-php-client.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/DraperStudio/getcake-php-client.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/DraperStudio/getcake-php-client.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/Apivore/GetCake-PHP-Client/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Apivore/getcake-php-client.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/Apivore/getcake-php-client.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/Apivore/getcake-php-client.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/DraperStudio/getcake-php-client
-[link-travis]: https://travis-ci.org/DraperStudio/GetCake-PHP-Client
-[link-scrutinizer]: https://scrutinizer-ci.com/g/DraperStudio/getcake-php-client/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/DraperStudio/getcake-php-client
-[link-downloads]: https://packagist.org/packages/DraperStudio/getcake-php-client
-[link-author]: https://github.com/DraperStudio
+[link-packagist]: https://packagist.org/packages/Apivore/getcake-php-client
+[link-travis]: https://travis-ci.org/Apivore/GetCake-PHP-Client
+[link-scrutinizer]: https://scrutinizer-ci.com/g/Apivore/getcake-php-client/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/Apivore/getcake-php-client
+[link-downloads]: https://packagist.org/packages/Apivore/getcake-php-client
+[link-author]: https://github.com/Apivore
 [link-contributors]: ../../contributors
