@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require apivore/getcake-php-client
+$ composer require apivore/getcake
 ```
 
 ## Usage
